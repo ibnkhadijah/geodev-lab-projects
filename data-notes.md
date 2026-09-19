@@ -18,7 +18,7 @@
 ## OSM Health Facilities, extracted via QuickOSM
 - Query: amenity=hospital, clinic, doctors, pharmacy within Kano Municipal extent
 - Extracted: 2026-09-19
-- 15 features, points
+- 43 features, points
 - Coverage looks dense in the city center, but sparse in peripheral wards
 
 ## OSM Pharmacies, extracted via QuickOSM
