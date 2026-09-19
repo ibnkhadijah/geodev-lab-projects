@@ -1,27 +1,20 @@
-#My GeoDev Lab Africa project
+# My GeoDev Lab Africa project
 
-#The question
-Which wards in Lagos state contain mapped habitats for threatened freshwater shrimp species?
+## 1. The question
+Which wards in Kano Municipal LGA have the lowest accessibility to healthcare facilities within a 15-minute travel time?
 
-#Why it matters
-Understanding where freshwater shrimp occur helps 
-local environmental agencies prioritise riverine conservation and water quality monitoring. 
-It also provides baseline data for future biodiversity assessments.
+## 2. Why it matters
+Understanding where healthcare access is poorest helps local health authorities prioritise the construction of new clinics or the improvement of road networks. It also provides a baseline for measuring progress towards universal health coverage in Kano.
 
-#The data I need
-- Administrative ward boundaries for my LGA
+## 3. The data I need
+- Administrative ward boundaries for Kano Municipal LGA
+- Health facility locations
+- Road network
 
+## 4. Where each dataset comes from
+- **Ward boundaries** – GRID3 – https://data.grid3.org – GeoPackage – (downloaded)
+- **Health facilities** – OpenStreetMap via QuickOSM – extracted for Kano Municipal
+- **Roads** – OpenStreetMap via QuickOSM – extracted for Kano Municipal
 
-- Freshwater shrimp distribution data
-
-#Where each dataset comes from
-- *Ward boundaries* – GRID3 – https://data.grid3.org – GeoPackage – (to be downloaded)
-- *Freshwater shrimp distribution* – IUCN Red List of Threatened Species
-  - Source page: https://www.iucnredlist.org/resources/spatial-data-download
-  - File downloaded: FW_Shrimps (Freshwater Shrimps)
-  - Format: ESRI Shapefile (polygons)
-  - Size: 125MB.
-  - Verified: Opened successfully in QGIS on 06/09/2026
- 
-#What I would build
-A static map showing ward-level overlap with shrimp habitats, with a brief report listing which wards have the highest concentration.
+## 5. What I would build
+A web map showing travel time to the nearest health facility for every ward in Kano Municipal. The map will highlight wards where more than 30% of the population is more than 15 minutes away from a clinic.
