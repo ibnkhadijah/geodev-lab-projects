@@ -43,3 +43,13 @@
 - OSM health facilities clipped to study area, saved as health_kano_municipal.gpkg
 - Both clipped layers in EPSG:32632
 - Raw unclipped layers preserved in data/raw/
+
+## OSM health facilities, extracted via QuickOSM
+- Query: amenity=hospital, clinic, doctors, pharmacy within Kano Municipal extent
+- Extracted: 26/09/2026
+- 3 features, points: Fuskar Gabas Primary Health Centre, Murtala Mohammed Specialist Hospital, Universal Specialist Hospital
+- Completeness: manual check against my own knowledge of Kano suggests at least one or more clinic exists that is not tagged. Assume moderate under-count (roughly 20–30%).
+- Currency: most features last edited 26/09/2026; acceptable for a baseline analysis
+- Positional accuracy: checked against satellite imagery, points align to buildings
+- Attribute accuracy: names and addresses populated for all three; wards mostly filled
+- Fitness for purpose: adequate for a coarse straight-line accessibility check; NOT adequate for a comprehensive health coverage analysis
