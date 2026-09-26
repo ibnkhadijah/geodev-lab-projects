@@ -51,6 +51,5 @@
 - Completeness: manual check against my own knowledge of Kano suggests at least one or more clinic exists that is not tagged. Assume moderate under-count (roughly 20–30%).
 - Currency: most features last edited 26/09/2026; acceptable for a baseline analysis
 - Positional accuracy: checked against satellite imagery, points align to buildings
-- Attribute accuracy: names and addresses populated for all three; wards mostly filled
+- Attribute accuracy: names and addresses populated for all three; wards mostly filled. Tagging is inconsistent — two of three facilities carry a `health_fac` tag; one does not. If a future query depends on that tag, one facility would be silently dropped.
 - Fitness for purpose: adequate for a coarse straight-line accessibility check; NOT adequate for a comprehensive health coverage analysis
-- 
