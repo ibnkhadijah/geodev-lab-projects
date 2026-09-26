@@ -53,3 +53,4 @@
 - Positional accuracy: checked against satellite imagery, points align to buildings
 - Attribute accuracy: names and addresses populated for all three; wards mostly filled
 - Fitness for purpose: adequate for a coarse straight-line accessibility check; NOT adequate for a comprehensive health coverage analysis
+- 
