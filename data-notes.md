@@ -53,3 +53,10 @@
 - Positional accuracy: checked against satellite imagery, points align to buildings
 - Attribute accuracy: names and addresses populated for all three; wards mostly filled. Tagging is inconsistent — two of three facilities carry a `health_fac` tag; one does not. If a future query depends on that tag, one facility would be silently dropped.
 - Fitness for purpose: adequate for a coarse straight-line accessibility check; NOT adequate for a comprehensive health coverage analysis
+
+## Week 4 — Spatial operation notes
+- Operation: Buffer (2000 m) on health facilities, then Difference against wards
+- Result: 2 wards (Gandun Albasa, Sharada) have uncovered areas
+- Manual verification: measured from each ward centre to nearest facility; results consistent with buffer output
+- Critical limitation: OSM health facilities for Kano Municipal contain only 2 usable facilities. This under-counts the true network. Result is a lower bound.
+
