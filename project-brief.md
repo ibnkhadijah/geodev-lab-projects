@@ -15,6 +15,7 @@ Understanding where healthcare access is poorest helps local health authorities 
 - **Ward boundaries** – GRID3 – https://data.grid3.org – GeoPackage – (downloaded)
 - **Health facilities** – OpenStreetMap via QuickOSM – extracted for Kano Municipal
 - **Roads** – OpenStreetMap via QuickOSM – extracted for Kano Municipal
+- **Coordinate Reference System:** All datasets will be reprojected to EPSG:32632 (UTM Zone 32N) for accurate distance measurement.
 
 ## 5. What I would build
-A web map showing travel time to the nearest health facility for every ward in Kano Municipal. The map will highlight wards where more than 30% of the population is more than 15 minutes away from a clinic.
+A web map showing access to health facilities for every ward. Currently, this uses straight line distance (a 2km buffer) to approximate a 15-minute walk, with plans to upgrade to a full travel time routing engine in later months. The map will highlight wards where more than 30% of the area is more than 2km away from a clinic.
