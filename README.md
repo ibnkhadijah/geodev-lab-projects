@@ -1,4 +1,4 @@
-# My GeoDev Lab Africa project
+<img width="1535" height="812" alt="image" src="https://github.com/user-attachments/assets/1455c2a9-ecb0-4e89-8888-ad1ea7077e86" /># My GeoDev Lab Africa project
 
 # Kano Municipal Healthcare Accessibility
 **GeoDev Lab Africa — Cohort One**
@@ -22,3 +22,4 @@ Built over twelve months with GeoDev Lab Africa. See [project-brief.md](./projec
 - **Week 1-4:** Data collection, clipping, reprojection (EPSG:32632), and spatial analysis (2km buffer on health facilities). Created an accessibility map.
 - **Week 5:** Set up Python, VS Code, and the terminal. `hello.py` runs successfully.
 - **Week 6:** set up the project with uv and added pandas. check.py prints the pandas version.
+- **Week 7:** analyse.py reads wards.csv, converts each area and classifies each ward.
