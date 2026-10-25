@@ -21,3 +21,4 @@ Built over twelve months with GeoDev Lab Africa. See [project-brief.md](./projec
 ## Project Log
 - **Week 1-4:** Data collection, clipping, reprojection (EPSG:32632), and spatial analysis (2km buffer on health facilities). Created an accessibility map.
 - **Week 5:** Set up Python, VS Code, and the terminal. `hello.py` runs successfully.
+- **Week 6:** set up the project with uv and added pandas. check.py prints the pandas version.
