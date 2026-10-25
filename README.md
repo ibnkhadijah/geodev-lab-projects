@@ -1,4 +1,4 @@
-<img width="1535" height="812" alt="image" src="https://github.com/user-attachments/assets/1455c2a9-ecb0-4e89-8888-ad1ea7077e86" /># My GeoDev Lab Africa project
+# My GeoDev Lab Africa project
 
 # Kano Municipal Healthcare Accessibility
 **GeoDev Lab Africa — Cohort One**
