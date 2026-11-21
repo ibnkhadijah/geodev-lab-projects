@@ -1,0 +1,14 @@
+fid,OBJECTID,country,iso3,state,statecode,lga,lga_alt_names,ward,ward_alt_names,ward_v1_grid3,ward_in_grid3_ward_list,multipart_count,source,date,area_m2,area_km2
+"1","3034",Nigeria,NGA,Kano,KN,Kano Municipal,,Chedi,,,1,1,CIESIN,2026-06-30,306526.937736984,0.306526937736984
+"2","3035",Nigeria,NGA,Kano,KN,Kano Municipal,,Dan Agundi,"Dan'agundi, Da'agundi",,1,1,CIESIN,2026-06-30,389289.493427285,0.389289493427285
+"3","3036",Nigeria,NGA,Kano,KN,Kano Municipal,,Gandu Albasa,"Gandun Albasa, Gandu, Gandun-Albasa, Gundau-Albasa",,1,1,CIESIN,2026-06-30,5529141.57660647,5.52914157660647
+"4","3037",Nigeria,NGA,Kano,KN,Kano Municipal,,Jakara,,,1,1,CIESIN,2026-06-30,176058.963021626,0.176058963021626
+"5","3038",Nigeria,NGA,Kano,KN,Kano Municipal,,Kan Karofi,Kankarofi,,1,1,CIESIN,2026-06-30,881520.044346328,0.881520044346328
+"6","3039",Nigeria,NGA,Kano,KN,Kano Municipal,,Shahuchi,Shahuci,,1,1,CIESIN,2026-06-30,315581.652104057,0.315581652104057
+"7","3040",Nigeria,NGA,Kano,KN,Kano Municipal,,Sharada,,,1,1,CIESIN,2026-06-30,3559333.7375712,3.5593337375712
+"8","3041",Nigeria,NGA,Kano,KN,Kano Municipal,,She She,"She-She, Sheshe",,1,1,CIESIN,2026-06-30,203593.257943263,0.203593257943263
+"9","3042",Nigeria,NGA,Kano,KN,Kano Municipal,,Tudun Nufawa,,,1,1,CIESIN,2026-06-30,184008.276115945,0.184008276115945
+"10","3043",Nigeria,NGA,Kano,KN,Kano Municipal,,Tudun Wazurchi,"Tudun Wuzurci, T/Wazirchi, Tudun Wazirchi, Tudun Wuzurchi",,1,1,CIESIN,2026-06-30,769349.792188354,0.769349792188354
+"11","3044",Nigeria,NGA,Kano,KN,Kano Municipal,,Yakasai,,,1,1,CIESIN,2026-06-30,827516.602073032,0.827516602073032
+"12","3045",Nigeria,NGA,Kano,KN,Kano Municipal,,Zaitawa,,,1,1,CIESIN,2026-06-30,871130.17228572,0.87113017228572
+"13","3046",Nigeria,NGA,Kano,KN,Kano Municipal,,Zango,Zango-Kmc,,1,1,CIESIN,2026-06-30,542138.316282999,0.542138316282999

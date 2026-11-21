@@ -1,0 +1,14 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Rasters and archives are large: keep them on your laptop
+*.tif
+*.TIF
+*.zip
+
+# Editor and system clutter
+.DS_Store
+Thumbs.db
+.vscode/
